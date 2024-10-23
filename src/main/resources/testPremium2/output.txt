@@ -1,0 +1,4 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+Insufficient amount in account for buying premium
+{"stocksToBuy":["MSFT","AMZN","META","GOOGL","GOOG","NFLX","NVDA"]}
+{"stocks":[{"stockName":"INTC","amount":100},{"stockName":"AMZN","amount":10}],"accounts":[{"currencyName":"USD","amount":"3684.20"}]}
